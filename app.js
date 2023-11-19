@@ -9,7 +9,7 @@ const OpenAI = require("openai");
 const app = express();
 const server = http.createServer(app);
 const io = socketIO(server);
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 2000;
 
 // OpenAI API configuration
 const openai = new OpenAI({
