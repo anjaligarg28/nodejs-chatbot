@@ -14,4 +14,4 @@ run the code by:
 nodemon app.js
 
 open the browser, go to
-https://localhost/3000
+http://localhost:2000/
