@@ -1,9 +1,10 @@
 # nodejs-chatbot
-a chatbot using openai, socket io in nodejs
+a chatbot using openai, socket io and express in nodejs
 
 How to start:
 
 clone this repo
+
 in .env file, paste your openai api key in OPENAI_API_KEY variable
 
 open the terminal
