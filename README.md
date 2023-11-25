@@ -16,3 +16,6 @@ nodemon app.js
 
 open the browser, go to
 http://localhost:2000/
+
+References:
+https://www.linkedin.com/pulse/complete-context-aware-ai-chatbot-web-app-nodejs-socketio-ali/
